@@ -19,7 +19,7 @@ public class RubiksTechnique {
 	static BufferedImage image = null;
 	static BufferedImage scaledImage = null;
 
-	static String imagePath = "./res/images/elenaGual.jpg";
+	static String imagePath = "./res/images/pikachu.jpg";
 
 	
 	static int noOfColors = 6;
@@ -71,8 +71,8 @@ public class RubiksTechnique {
 
 		for (int i = 0; i < pixels.length; i++) {
 			for (int j = 0; j < pixels[0].length; j++) {
-				//System.out.print(consoleCodeBW[pixelCodes[i][j]] + "" + consoleCodeBW[pixelCodes[i][j]]);
-				System.out.print(consoleCode[pixelCodes[i][j]] + "  ");
+				System.out.print(consoleCodeBW[pixelCodes[i][j]] + "" + consoleCodeBW[pixelCodes[i][j]]);
+				//System.out.print(consoleCode[pixelCodes[i][j]] + "  ");
 			}
 			System.out.println();
 		}

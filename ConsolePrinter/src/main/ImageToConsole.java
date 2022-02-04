@@ -21,7 +21,7 @@ public class ImageToConsole {
 	
 	
 	//Stroes the path of the image
-	static String imagePath = "./res/images/elenaGual.jpg";
+	static String imagePath = "./res/images/pikachu.jpg";
 	
 	
 	//Color Defintions

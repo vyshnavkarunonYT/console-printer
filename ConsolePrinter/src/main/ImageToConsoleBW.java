@@ -18,7 +18,7 @@ public class ImageToConsoleBW {
 	static BufferedImage image = null;
 	static BufferedImage scaledImage = null;
 	
-	static String imagePath = "./res/images/lenna.jpg";
+	static String imagePath = "./res/images/pikachu.jpg";
 
 	static Color [] colors = { Color.WHITE, Color.LIGHT_GRAY, Color.DARK_GRAY, Color.BLACK };
 	static int[] colorsRGB = new int[colors.length];
