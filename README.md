@@ -4,7 +4,15 @@ Log images to the console using Java on the Eclipse IDE
 
 Hey Guys, so here's some of my attempts at printing images to console. These are just some of the techniques that you could use to output images onto the console.
 
+
+
+
 So far I have come up with three techniques to output images onto the console:
+
+<p align="center">
+  <img src="https://github.com/vyshnavkarunonYT/console-printer/blob/master/ConsolePrinter/res/images/elenagual.jpg" alt="drawing" width="200"/>
+</p>
+
 
 1) ImageToConsoleBW - Maps each pixel of the image to the closest amongst the following colors - white, light grey, dark grey and black. 
 The closest matching colors are then mapped to a set of 4 respective characters. The image is then output as an array of characters onto the console.
