@@ -10,7 +10,7 @@ So far I have come up with three techniques to output images onto the console:
 The closest matching colors are then mapped to a set of 4 respective characters. The image is then output as an array of characters onto the console.
 This technique is very fast but the image output is only in black and white.
 
-![alt text](https://github.com/vyshnavkarunonYT/console-printer/commit/361c462b2c1fcb74fc3bd8e670e71130feb9202d#diff-bf842186ffd2f130962d4c50d45a3c9f07acf2147e8661600713874457c05d60)
+![alt text](ConsolePrinter/res/testImages/elenaImageToConsole.png)
 
 2) ImageToConsole - Maps each pixel of the image to the closest among pre defined ANSII color codes and then outputs the ANSI codes onto the screen.
 This image is extremely slow and the user is warned to scale the image down to a small size before outputting to the console. However,
