@@ -5,7 +5,9 @@ import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 
 public class Utils {
-
+	
+	
+	// Converts Image to 2D Array using the conventional getRGB method
 	public static int[][] convertTo2DUsingGetRGB(BufferedImage image) {
 		int width = image.getWidth();
 		int height = image.getHeight();
@@ -112,7 +114,7 @@ public class Utils {
 		return id;
 	}
 
-	// Accepts image and returns it after grayscaling int
+	// Accepts image and returns it after grayscaling it
 	public static BufferedImage GrayScale(BufferedImage image) {
 		int width = image.getWidth();
 		int height = image.getHeight();
