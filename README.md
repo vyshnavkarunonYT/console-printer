@@ -38,7 +38,7 @@ technique too is. A sub technique was then later devloped for the RubiksTechniqu
 different characters.
 
 <p align="center">
-  <img src="ConsolePrinter/res/testImages/elenaRubiksTechniue.png" alt="drawing" width="200"/>
+  <img src="ConsolePrinter/res/testImages/elenaRubiksTechnique.png" alt="drawing" width="200"/>
    <img src="ConsolePrinter/res/testImages/elenaRubiksTechniqueBW.png" alt="drawing" width="200"/>
 </p>
 
