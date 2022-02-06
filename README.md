@@ -29,6 +29,10 @@ pixels. In this technique the image is mapped onto n different random colors ( 6
 technique too is. A sub technique was then later devloped for the RubiksTechnique which allowed using the same code to print out the image as a 2D array of n 
 different characters.
 
+<div>
+  <img src="ConsolePrinter/res/testImages/elenaRubiksTechniue.png" alt="drawing" width="200"/>
+   <img src="ConsolePrinter/res/testImages/elenaRubiksTechniqueBW.png" alt="drawing" width="200"/>
+</div>
 
 PS: The code is still being developed on and was meant to be used as a reference for you to build on or take inspiration from such techniques. Also do check out the 
 AnimationToConsole technique which was an attempt at running an animation on the Java Console. 
